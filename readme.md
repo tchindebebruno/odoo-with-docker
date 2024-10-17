@@ -25,5 +25,5 @@ Step 3: Build & Run
 Step 4: Access to odoo and configure it
 
   
-  [http://localhost:8069/](http://localhost:8069/)
+ Open [http://localhost:8069/](http://localhost:8069/)
   
