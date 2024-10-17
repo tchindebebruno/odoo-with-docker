@@ -20,7 +20,7 @@ Setp 2: Pull this project
 
 Step 3: Build & Run
   ```shell
-  docker compose -d 
+  docker compose up -d 
   ```
 Step 4: Access to odoo and configure it
 
